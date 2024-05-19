@@ -1,4 +1,4 @@
-
+simple cljs app that fetches images from picsum api. no finite state machine library used. This app follows event driven methodology.
 ### Development mode
 ```
 npm install
